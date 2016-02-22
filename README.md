@@ -1,4 +1,4 @@
-# sistema
+# sistema de gerenciamento de clientes
 Arquivos usados como base
 Template: <br>
 http://azmind.com/2015/03/15/bootstrap-registration-forms-3-free-responsive-templates/ <br>
