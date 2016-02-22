@@ -7,4 +7,5 @@ https://github.com/vlucas/valitron <br>
 Mascara: <br>
 https://github.com/digitalBush/jquery.maskedinput <br>
 
-Arquivo clientes.sql na pasta sql com os dados da tabela
+Arquivo clientes.sql na pasta sql com os dados da tabela <br>
+Não esquecer de trocar os dados de conexão com o banco no arquivo "db/conexao.php"
